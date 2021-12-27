@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    color: #004910;
+}
+
+.background{
+height: 100vh;
+background-color:#62FF84;
+}
+
+.calculatorImc{
+    width: 490px;
+    height: 352px;
+    border-radius: 10px;
+    background-color: #ffffffa2;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+}
+
+.data2{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
