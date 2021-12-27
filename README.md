@@ -1,2 +1,2 @@
 # CALCULADORA-IMC
- CALCULADORA PARA CALCULAR O ÍNDICE DE MASSA CORPORAL BASEADO NA ALTURA E PESO DO INDIVÍDUO
+ Calcula o índice de massa corporal do índividuo baseado na altura e peso.
